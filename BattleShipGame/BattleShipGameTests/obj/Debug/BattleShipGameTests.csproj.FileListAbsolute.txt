@@ -1,0 +1,8 @@
+c:\users\centraluser\documents\visual studio 2015\Projects\BattleShipGame\BattleShipGameTests\bin\Debug\BattleShipGameTests.dll
+c:\users\centraluser\documents\visual studio 2015\Projects\BattleShipGame\BattleShipGameTests\bin\Debug\BattleShipGameTests.pdb
+c:\users\centraluser\documents\visual studio 2015\Projects\BattleShipGame\BattleShipGameTests\bin\Debug\BattleShipGame.exe
+c:\users\centraluser\documents\visual studio 2015\Projects\BattleShipGame\BattleShipGameTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\centraluser\documents\visual studio 2015\Projects\BattleShipGame\BattleShipGameTests\bin\Debug\BattleShipGame.pdb
+c:\users\centraluser\documents\visual studio 2015\Projects\BattleShipGame\BattleShipGameTests\obj\Debug\BattleShipGameTests.csprojResolveAssemblyReference.cache
+c:\users\centraluser\documents\visual studio 2015\Projects\BattleShipGame\BattleShipGameTests\obj\Debug\BattleShipGameTests.dll
+c:\users\centraluser\documents\visual studio 2015\Projects\BattleShipGame\BattleShipGameTests\obj\Debug\BattleShipGameTests.pdb
